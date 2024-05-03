@@ -1,6 +1,5 @@
 # Course Enrollment Management System
-This project is a course enrollment system designed for educational institutions, such as schools or universities, to manage course offerings and student enrollments. It allows administrators to add new courses, assign teachers to courses, and enroll students in courses. Students can view available courses, enroll in courses, and drop courses if needed. The system provides error handling for scenarios such as reaching course capacity or selecting a course that doesn't exist
-
+This project is a Course Management System designed to streamline the process of managing academic courses, student enrollments, and course information. It caters to educational institutions such as schools, colleges, or training centers that need a centralized system to handle course offerings and student registrations efficiently. 
 # Authors
 Galymzhan Ayaulym-220317013
 # Features
